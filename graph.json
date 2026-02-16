@@ -1,0 +1,525 @@
+{
+  "nodes": [
+    {
+      "id": "Aisha Khan"
+    },
+    {
+      "id": "Horizon Dynamics Corporation"
+    },
+    {
+      "id": "Riverbend"
+    },
+    {
+      "id": "Northbridge"
+    },
+    {
+      "id": "healthcare innovation"
+    },
+    {
+      "id": "Lumina Health Initiative"
+    },
+    {
+      "id": "Predictive Care Analytics"
+    },
+    {
+      "id": "Digital Health Informatics"
+    },
+    {
+      "id": "Clinical Decision Systems"
+    },
+    {
+      "id": "Patient Care Optimization"
+    },
+    {
+      "id": "Arjun Mehta"
+    },
+    {
+      "id": "senior scientist"
+    },
+    {
+      "id": "Riya Sen"
+    },
+    {
+      "id": "Digital Health Informatics Program"
+    },
+    {
+      "id": "The Lumina Health Initiative"
+    },
+    {
+      "id": "Riverbend Medical Council"
+    },
+    {
+      "id": "Northbridge Institute of Technology"
+    },
+    {
+      "id": "Machine Learning Models"
+    },
+    {
+      "id": "Health Data Infrastructure"
+    },
+    {
+      "id": "healthcare innovation initiatives"
+    },
+    {
+      "id": "Riverbend hospitals"
+    },
+    {
+      "id": "Clinical Decision Systems implementation"
+    },
+    {
+      "id": "Health Data Infrastructure development"
+    },
+    {
+      "id": "Digital Health Informatics initiatives"
+    },
+    {
+      "id": "healthcare innovation projects"
+    },
+    {
+      "id": "Clinical Decision Systems research"
+    },
+    {
+      "id": "researchers in Predictive Care Analytics"
+    },
+    {
+      "id": "healthcare innovation efforts"
+    },
+    {
+      "id": "Clinical Decision Systems development"
+    },
+    {
+      "id": "Riverbend Medical Council programs"
+    },
+    {
+      "id": "Horizon Dynamics Corporation systems"
+    },
+    {
+      "id": "healthcare innovation research"
+    },
+    {
+      "id": "Patient Care Optimization initiatives"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Aisha Khan",
+      "target": "Horizon Dynamics Corporation",
+      "relation": "works_at"
+    },
+    {
+      "source": "Aisha Khan",
+      "target": "Riverbend",
+      "relation": "resides_in"
+    },
+    {
+      "source": "Aisha Khan",
+      "target": "Lumina Health Initiative",
+      "relation": "leads"
+    },
+    {
+      "source": "Aisha Khan",
+      "target": "Arjun Mehta",
+      "relation": "collaborates_with"
+    },
+    {
+      "source": "Aisha Khan",
+      "target": "Riverbend Medical Council",
+      "relation": "advises"
+    },
+    {
+      "source": "Aisha Khan",
+      "target": "Northbridge Institute of Technology",
+      "relation": "earned_degree_from"
+    },
+    {
+      "source": "Aisha Khan",
+      "target": "Digital Health Informatics",
+      "relation": "field_of_research"
+    },
+    {
+      "source": "Aisha Khan",
+      "target": "Patient Care Optimization",
+      "relation": "supports"
+    },
+    {
+      "source": "Horizon Dynamics Corporation",
+      "target": "Riverbend",
+      "relation": "located_in"
+    },
+    {
+      "source": "Horizon Dynamics Corporation",
+      "target": "Digital Health Informatics Program",
+      "relation": "funds"
+    },
+    {
+      "source": "Horizon Dynamics Corporation",
+      "target": "Health Data Infrastructure",
+      "relation": "develops"
+    },
+    {
+      "source": "Horizon Dynamics Corporation",
+      "target": "Northbridge Institute of Technology",
+      "relation": "collaborates_with"
+    },
+    {
+      "source": "Horizon Dynamics Corporation",
+      "target": "healthcare innovation initiatives",
+      "relation": "supports"
+    },
+    {
+      "source": "Horizon Dynamics Corporation",
+      "target": "Clinical Decision Systems",
+      "relation": "promotes"
+    },
+    {
+      "source": "Horizon Dynamics Corporation",
+      "target": "Predictive Care Analytics",
+      "relation": "focuses_on"
+    },
+    {
+      "source": "Horizon Dynamics Corporation",
+      "target": "Machine Learning Models",
+      "relation": "invests_in"
+    },
+    {
+      "source": "Horizon Dynamics Corporation",
+      "target": "Riverbend Medical Council",
+      "relation": "partners_with"
+    },
+    {
+      "source": "Horizon Dynamics Corporation",
+      "target": "Patient Care Optimization",
+      "relation": "collaborates_on"
+    },
+    {
+      "source": "Riverbend",
+      "target": "Northbridge",
+      "relation": "located_in"
+    },
+    {
+      "source": "Riverbend",
+      "target": "healthcare innovation",
+      "relation": "recognized_for"
+    },
+    {
+      "source": "Northbridge",
+      "target": "healthcare innovation",
+      "relation": "known_for"
+    },
+    {
+      "source": "Northbridge",
+      "target": "Digital Health Informatics initiatives",
+      "relation": "supports"
+    },
+    {
+      "source": "Lumina Health Initiative",
+      "target": "Predictive Care Analytics",
+      "relation": "develops"
+    },
+    {
+      "source": "Lumina Health Initiative",
+      "target": "Riverbend Medical Council",
+      "relation": "collaborates_with"
+    },
+    {
+      "source": "Lumina Health Initiative",
+      "target": "Health Data Infrastructure",
+      "relation": "integrates"
+    },
+    {
+      "source": "Lumina Health Initiative",
+      "target": "Clinical Decision Systems",
+      "relation": "supports"
+    },
+    {
+      "source": "Lumina Health Initiative",
+      "target": "Patient Care Optimization",
+      "relation": "promotes"
+    },
+    {
+      "source": "Lumina Health Initiative",
+      "target": "healthcare innovation research",
+      "relation": "advances"
+    },
+    {
+      "source": "Predictive Care Analytics",
+      "target": "Digital Health Informatics",
+      "relation": "supports"
+    },
+    {
+      "source": "Predictive Care Analytics",
+      "target": "Machine Learning Models",
+      "relation": "integrates"
+    },
+    {
+      "source": "Predictive Care Analytics",
+      "target": "Riverbend hospitals",
+      "relation": "deployed_in"
+    },
+    {
+      "source": "Predictive Care Analytics",
+      "target": "Patient Care Optimization",
+      "relation": "improves"
+    },
+    {
+      "source": "Predictive Care Analytics",
+      "target": "Health Data Infrastructure",
+      "relation": "depends_on"
+    },
+    {
+      "source": "Predictive Care Analytics",
+      "target": "healthcare innovation",
+      "relation": "enhances"
+    },
+    {
+      "source": "Predictive Care Analytics",
+      "target": "Riverbend Medical Council programs",
+      "relation": "supports"
+    },
+    {
+      "source": "Digital Health Informatics",
+      "target": "Clinical Decision Systems",
+      "relation": "improves"
+    },
+    {
+      "source": "Clinical Decision Systems",
+      "target": "Patient Care Optimization",
+      "relation": "enhances"
+    },
+    {
+      "source": "Clinical Decision Systems",
+      "target": "Health Data Infrastructure",
+      "relation": "rely_on"
+    },
+    {
+      "source": "Clinical Decision Systems",
+      "target": "Machine Learning Models",
+      "relation": "integrate"
+    },
+    {
+      "source": "Clinical Decision Systems",
+      "target": "healthcare innovation efforts",
+      "relation": "strengthen"
+    },
+    {
+      "source": "Clinical Decision Systems",
+      "target": "Riverbend hospitals",
+      "relation": "assists"
+    },
+    {
+      "source": "Arjun Mehta",
+      "target": "Digital Health Informatics",
+      "relation": "researches"
+    },
+    {
+      "source": "Arjun Mehta",
+      "target": "Horizon Dynamics Corporation",
+      "relation": "works_at"
+    },
+    {
+      "source": "Arjun Mehta",
+      "target": "senior scientist",
+      "relation": "position"
+    },
+    {
+      "source": "Arjun Mehta",
+      "target": "Riya Sen",
+      "relation": "mentors"
+    },
+    {
+      "source": "Arjun Mehta",
+      "target": "Health Data Infrastructure development",
+      "relation": "contributes_to"
+    },
+    {
+      "source": "Arjun Mehta",
+      "target": "Machine Learning Models",
+      "relation": "develops"
+    },
+    {
+      "source": "Arjun Mehta",
+      "target": "researchers in Predictive Care Analytics",
+      "relation": "mentors"
+    },
+    {
+      "source": "Arjun Mehta",
+      "target": "Northbridge Institute of Technology",
+      "relation": "collaborates_with"
+    },
+    {
+      "source": "Arjun Mehta",
+      "target": "Patient Care Optimization initiatives",
+      "relation": "supports"
+    },
+    {
+      "source": "Riya Sen",
+      "target": "Predictive Care Analytics",
+      "relation": "studies"
+    },
+    {
+      "source": "Riya Sen",
+      "target": "Arjun Mehta",
+      "relation": "collaborates_with"
+    },
+    {
+      "source": "Riya Sen",
+      "target": "Digital Health Informatics Program",
+      "relation": "contributes_to"
+    },
+    {
+      "source": "Riya Sen",
+      "target": "Machine Learning Models",
+      "relation": "researches"
+    },
+    {
+      "source": "Riya Sen",
+      "target": "Health Data Infrastructure",
+      "relation": "studies"
+    },
+    {
+      "source": "Riya Sen",
+      "target": "Clinical Decision Systems research",
+      "relation": "collaborates_on"
+    },
+    {
+      "source": "Riya Sen",
+      "target": "Clinical Decision Systems development",
+      "relation": "contributes_to"
+    },
+    {
+      "source": "Riya Sen",
+      "target": "Clinical Decision Systems",
+      "relation": "researches"
+    },
+    {
+      "source": "Digital Health Informatics Program",
+      "target": "Digital Health Informatics",
+      "relation": "focuses_on"
+    },
+    {
+      "source": "Digital Health Informatics Program",
+      "target": "Lumina Health Initiative",
+      "relation": "partners_with"
+    },
+    {
+      "source": "The Lumina Health Initiative",
+      "target": "Horizon Dynamics Corporation",
+      "relation": "operates_in"
+    },
+    {
+      "source": "Riverbend Medical Council",
+      "target": "Digital Health Informatics",
+      "relation": "promotes"
+    },
+    {
+      "source": "Riverbend Medical Council",
+      "target": "Horizon Dynamics Corporation",
+      "relation": "collaborates_with"
+    },
+    {
+      "source": "Riverbend Medical Council",
+      "target": "Clinical Decision Systems implementation",
+      "relation": "oversees"
+    },
+    {
+      "source": "Riverbend Medical Council",
+      "target": "Patient Care Optimization",
+      "relation": "supports"
+    },
+    {
+      "source": "Riverbend Medical Council",
+      "target": "healthcare innovation projects",
+      "relation": "funds"
+    },
+    {
+      "source": "Riverbend Medical Council",
+      "target": "Northbridge Institute of Technology",
+      "relation": "coordinates_with"
+    },
+    {
+      "source": "Riverbend Medical Council",
+      "target": "Machine Learning Models",
+      "relation": "integrates"
+    },
+    {
+      "source": "Northbridge Institute of Technology",
+      "target": "Digital Health Informatics",
+      "relation": "specializes_in"
+    },
+    {
+      "source": "Northbridge Institute of Technology",
+      "target": "Northbridge",
+      "relation": "located_in"
+    },
+    {
+      "source": "Northbridge Institute of Technology",
+      "target": "Horizon Dynamics Corporation",
+      "relation": "partners_with"
+    },
+    {
+      "source": "Northbridge Institute of Technology",
+      "target": "Clinical Decision Systems",
+      "relation": "researched"
+    },
+    {
+      "source": "Northbridge Institute of Technology",
+      "target": "healthcare innovation",
+      "relation": "contributes_to"
+    },
+    {
+      "source": "Northbridge Institute of Technology",
+      "target": "Machine Learning Models",
+      "relation": "develops"
+    },
+    {
+      "source": "Machine Learning Models",
+      "target": "Clinical Decision Systems",
+      "relation": "power"
+    },
+    {
+      "source": "Machine Learning Models",
+      "target": "Predictive Care Analytics",
+      "relation": "enhance"
+    },
+    {
+      "source": "Machine Learning Models",
+      "target": "Patient Care Optimization",
+      "relation": "improve"
+    },
+    {
+      "source": "Machine Learning Models",
+      "target": "Health Data Infrastructure",
+      "relation": "rely_on"
+    },
+    {
+      "source": "Health Data Infrastructure",
+      "target": "Digital Health Informatics",
+      "relation": "supports"
+    },
+    {
+      "source": "Health Data Infrastructure",
+      "target": "Clinical Decision Systems",
+      "relation": "improves"
+    },
+    {
+      "source": "Health Data Infrastructure",
+      "target": "Predictive Care Analytics",
+      "relation": "enables"
+    },
+    {
+      "source": "Health Data Infrastructure",
+      "target": "healthcare innovation",
+      "relation": "advances"
+    },
+    {
+      "source": "Health Data Infrastructure",
+      "target": "Horizon Dynamics Corporation systems",
+      "relation": "connects_to"
+    },
+    {
+      "source": "healthcare innovation initiatives",
+      "target": "Northbridge",
+      "relation": "located_in"
+    }
+  ]
+}
