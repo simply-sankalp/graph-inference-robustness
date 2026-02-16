@@ -1,0 +1,39 @@
+QUERY: What organization does Arjun Mehta work at?
+DELETE_EDGE: Arjun Mehta | works_at | Horizon Dynamics Corporation
+ANSWER: Horizon Dynamics Corporation
+
+QUERY: What system does Machine Learning Models power?
+DELETE_EDGE: Machine Learning Models | power | Clinical Decision Systems
+ANSWER: Clinical Decision Systems
+
+QUERY: What initiative develops Predictive Care Analytics?
+DELETE_EDGE: Lumina Health Initiative | develops | Predictive Care Analytics
+ANSWER: Predictive Care Analytics
+
+QUERY: What does Health Data Infrastructure improve?
+DELETE_EDGE: Health Data Infrastructure | improves | Clinical Decision Systems
+ANSWER: Clinical Decision Systems
+
+QUERY: What does Clinical Decision Systems enhance?
+DELETE_EDGE: Clinical Decision Systems | enhances | Patient Care Optimization
+ANSWER: Patient Care Optimization
+
+QUERY: What program focuses on Digital Health Informatics?
+DELETE_EDGE: Digital Health Informatics Program | focuses_on | Digital Health Informatics
+ANSWER: Digital Health Informatics
+
+QUERY: What organization does The Lumina Health Initiative operate in?
+DELETE_EDGE: The Lumina Health Initiative | operates_in | Horizon Dynamics Corporation
+ANSWER: Horizon Dynamics Corporation
+
+QUERY: What state is Riverbend located in?
+DELETE_EDGE: Riverbend | located_in | Northbridge
+ANSWER: Northbridge
+
+QUERY: What domain does Northbridge Institute of Technology specialize in?
+DELETE_EDGE: Northbridge Institute of Technology | specializes_in | Digital Health Informatics
+ANSWER: Digital Health Informatics
+
+QUERY: What domain does Riverbend Medical Council promote?
+DELETE_EDGE: Riverbend Medical Council | promotes | Digital Health Informatics
+ANSWER: Digital Health Informatics
